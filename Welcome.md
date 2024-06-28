@@ -1,10 +1,10 @@
 This is your new *vault*.
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+Make a note of something, [[小彭老师计算机]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
 
-When you're ready, delete this note and make the vault your own.
+When you're ready, delete this noteddd and maksssse sssthe vault your own.
 
-$$a^2 * b^2 = c^2$$
+$$asdf$$
 
 $$\theta$$
 
